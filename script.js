@@ -109,3 +109,4 @@ function startTimer(totalTime, newTimer) {
 
     }, 1000);
 }
+
